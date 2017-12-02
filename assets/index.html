@@ -1,0 +1,40 @@
+<html>
+<head>
+</head>
+<body>
+
+<div style="display:inline">
+    <strong style="font-size:large" id="word">Word</strong>
+    &nbsp<img src="audio.png" width="25" height="25" onclick="window.MyHandler.ClickSound(document.getElementById('word').innerHTML)"/>&nbsp
+    <img id="start" src="star-off.png" width="25" height="25" onclick="window.MyHandler.ClickStart()"/>
+    <span style="font-size:large;color:gray">&nbsp\<span id="pronun">Pronunciation</span>\</span>
+
+</div>
+
+    <p id="meaning">
+        Meaning
+    </p>
+</body>
+</html>
+
+<script>
+	function changeSrc()
+	  {
+			var temp = document.getElementById('start').getAttribute('src');
+			if(temp == "star-off.png"){
+	  			document.getElementById("start").src="star-on.png";
+				window.MyHandler.ReturnActionStart("on",document.getElementById('word').innerHTML);
+	  		}
+			else{
+				document.getElementById("start").src="star-off.png";
+				window.MyHandler.ReturnActionStart("off",document.getElementById('word').innerHTML);
+			}
+	  }
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+</script>

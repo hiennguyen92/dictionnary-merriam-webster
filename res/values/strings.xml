@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dictionary-G7</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint"> Search the records </string>
+
+    <color name="red">#ffff0000</color>
+    <color name="back">#d6d6d6</color>
+    <color name="gray">#7d8490</color>
+    <color name="den">#000000</color>
+
+    <string name="title_activity_about">About Dictionary-G7</string>
+    <string name="close">Close</string>
+    <string name="about">QLQTPM\nNHÓM 7</string>
+    <string name="titleApp">Dictionary-G7</string>
+    <string name="copyright">Môn: QLQTPM K10\nNhóm 7</string>
+
+</resources>
