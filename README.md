@@ -3,8 +3,8 @@
 This is my old source code repository
 
 <p align="center">
-  <a href="https://github.com/hiennguyen92/Creepypasta-App-Android/apk/Merriam-Webster.apk"><img src="https://visualpharm.com/assets/979/Apk-595b40b65ba036ed117d28a7.svg" width="20%"></a></br>
-  https://github.com/hiennguyen92/Creepypasta-App-Android/apk/Merriam-Webster.apk
+  <a href="https://github.com/hiennguyen92/Dictionnary-Merriam-Webster/raw/master/apk/Merriam-Webster.apk"><img src="https://visualpharm.com/assets/979/Apk-595b40b65ba036ed117d28a7.svg" width="20%"></a></br>
+  https://github.com/hiennguyen92/Dictionnary-Merriam-Webster/raw/master/apk/Merriam-Webster.apk
 </p>
 
 # SCREENSHOTS #
